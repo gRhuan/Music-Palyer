@@ -7,6 +7,7 @@
 body {
   background-color: #1f1f1f;
   color: white;
+  font-family: "Montserrat", sans-serif;
 }
 
 a {
@@ -16,10 +17,18 @@ a {
 
 .header {
   display: flex;
-  padding: 0px 20px;
+  padding: 10px 20px;
+  justify-content: space-between;
+  align-items: center;
 
   img {
-    width: 70px;
-    height: 70px;
+    width: 58px;
+    height: 58px;
+    background-color: rgba(67, 6, 113, 0.15);
+    border-radius: 50px;
   }
+}
+
+.header__link:hover {
+  text-decoration: underline;
 }
