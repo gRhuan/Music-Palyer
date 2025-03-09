@@ -45,6 +45,12 @@ npm start
 yarn start
 ```
 
+## 🌍 Pré-visualização Online
+
+O projeto está disponível para pré-visualização na Vercel. Você pode acessá-lo através do link abaixo:
+
+🔗 [Music Player na Vercel](https://music-palyer-psi.vercel.app/)
+
 ## ❗ Status do Projeto
 
 Atualmente, o projeto está pausado devido à API utilizada para obter músicas ter saído do ar. Caso encontre uma nova API compatível, o desenvolvimento será retomado.
